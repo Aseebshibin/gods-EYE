@@ -118,11 +118,11 @@ fi
 
 if [ -d "/data/data/com.termux/files/usr/" ]; then
 banner
-echo -e "$red [$green+$red]$off Th3inspector Will Be Installed In Your System";
+echo -e "$red [$green+$red]$off gods-eye Will Be Installed In Your System";
 termux
 elif [ -d "/usr/bin/" ];then
 banner
-echo -e "$red [$green+$red]$off Th3inspector Will Be Installed In Your System";
+echo -e "$red [$green+$red]$off gods-eye Will Be Installed In Your System";
 linux
 else
 echo -e "$red [$green✘$red]$off Tool Cannot Be Installed On Your System! Use It As Portable !";
