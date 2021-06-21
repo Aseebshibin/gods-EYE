@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Th3inspector
-Comment=Th3Inspector 🕵️ best tool for Information Gathering 🔎 
+Name=gods eye
+Comment=all power in your control 
 Encoding=UTF-8
 Exec=sh -c "Th3inspector;${SHELL:-bash}"
 Icon=Th3inspector.png
